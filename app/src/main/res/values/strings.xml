@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FeedMe</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="please_select_your_pizza">Please select your Pizza:</string>
+    <string name="hawaiian">Hawaiian</string>
+    <string name="chicken_bbq">Chicken BBQ</string>
+    <string name="please_select_your_preferred_beverage">Please select your preferred Beverage:</string>
+    <string name="soda">Soda</string>
+    <string name="wine">Wine</string>
+    <string name="sangria">Sangria</string>
+    <string name="please_select_your_burger">Please select your Burger</string>
+    <string name="hamburger">Hamburger</string>
+    <string name="chicken_burger">Chicken Burger</string>
+    <string name="vegetarian_pizza">Vegetarian Pizza</string>
+    <string name="vegetarian_burger">Vegetarian Burger</string>
+    <string name="pizzaOrder">Your ordered Hawaiian Pizza</string>
+    <string name="chickenbbqOrder">You ordered Chicken BBQ</string>
+    <string name="vegetarianOrder">You ordered Vegetarian Pizza</string>
+</resources>
