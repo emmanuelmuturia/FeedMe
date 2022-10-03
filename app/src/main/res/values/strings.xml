@@ -17,4 +17,6 @@
     <string name="pizzaOrder">Your ordered Hawaiian Pizza</string>
     <string name="chickenbbqOrder">You ordered Chicken BBQ</string>
     <string name="vegetarianOrder">You ordered Vegetarian Pizza</string>
+    <string name="your_pizza_choice_is">Your Pizza choice is:</string>
+    <string name="your_burger_choice_is">Your Burger choice is:</string>
 </resources>
